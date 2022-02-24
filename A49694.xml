@@ -1,0 +1,861 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Visitation, or, Long look'd-for comes at last in the submission of Mr. Baxter, Mr. Jenkins, and others, to the several parts of the Act of Uniformity.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49694</idno>
+            <idno type="STC">Wing L56D</idno>
+            <idno type="STC">ESTC R43335</idno>
+            <idno type="EEBO-CITATION">27214303</idno>
+            <idno type="OCLC">ocm 27214303</idno>
+            <idno type="VID">110039</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49694)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110039)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1723:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Visitation, or, Long look'd-for comes at last in the submission of Mr. Baxter, Mr. Jenkins, and others, to the several parts of the Act of Uniformity.</title>
+                  <author>R. L.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in --- August, if one won't another must,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: R.L.</note>
+                  <note>Running title: Ex ore tuo, or, Much ado about nothing.</note>
+                  <note>Advertisement: p. 28.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baxter, Richard, 1615-1691.</term>
+               <term>Act of Uniformity (1662)</term>
+               <term>Dissenters, Religious --  England.</term>
+               <term>Great Britain --  Church history.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110039:1"/>
+            <p>THE VISITATION: OR, <hi>Long look'd-for comes at laſt:</hi> IN THE SUBMISSION OF M<hi rend="sup">r</hi>. BAXTER, M<hi rend="sup">r</hi>. JENKINS, and others, to the ſeveral parts of the Act of Uniformity.</p>
+            <q>
+               <bibl>
+                  <hi>RABBI BUSIE.</hi>
+               </bibl>
+               <p>Pigg may be eaten, — exceedingly well eaten. —</p>
+               <p>
+                  <hi>B. John:</hi>
+               </p>
+            </q>
+            <p>LONDON <hi>Printed in</hi> — AUGUST, <hi>If one</hi> WON'T, <hi>another</hi> MUST. 1662.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:110039:2"/>
+            <pb facs="tcp:110039:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen Lawes cannot prevail, Authori<g ref="char:EOLhyphen"/>ty cannot awe, favours cannot ob<g ref="char:EOLhyphen"/>lige, reaſons cannot convince ſome perſons <hi>otherwiſe minded:</hi> Its our Laſt re<g ref="char:EOLhyphen"/>fuge to preſſe upon them their own words, that if they will not hear us, they may hear them<g ref="char:EOLhyphen"/>ſelves, hoping that they will be unwilling to be of their number who (as the Apoſtle ſaith) <hi>Condemn themſelves:</hi> If our hearts con<g ref="char:EOLhyphen"/>demn us not God is greater then our hearts, and knoweth all things.</p>
+            <pb facs="tcp:110039:3"/>
+            <p>This little Book hath cleared this great Truth for the uſe of the preſent age, and poſteri<g ref="char:EOLhyphen"/>tie, <hi>viz.</hi>
+            </p>
+            <p>That there is nothing impoſed by the Act of Uniformity, but what hath been owned by Mr. <hi>Perkins,</hi> Mr. <hi>Dod,</hi> Mr. <hi>Ball,</hi> Mr. <hi>Baxter,</hi> Mr. <hi>Vines,</hi> Mr. <hi>Jeakins,</hi> &amp;c. and other Non-Conformists that writ ſince the Troubles at <hi>Franckford,</hi> as appears by their own words, faithfully recited from their ſeveral Books and Pages to the impartiall; to whoſe reading the following quoted places in the Authors are Com<g ref="char:EOLhyphen"/>mended,</p>
+            <closer>
+               <signed>
+                  <hi>By your Old Friend,</hi> R. L.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110039:3"/>
+            <head>
+               <hi>THE VISITATION, OR,</hi> Long look'd for comes at laſt.</head>
+            <stage>
+               <hi>Biſhop,</hi> Mr. <hi>Baxter.</hi>
+            </stage>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>MR. Baxter, <hi>I pray tell me ſeriouſly, Whether you think in your Conſcience that Miniſters ought not to ſubmit to an Act of Uniformity?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. Baxter.</speaker>
+               <p n="1">1. We muſt obey both Magiſtrates and Paſtors in thoſe things that belong to their Office.<note place="margin">D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſp. Ch. Govern<g ref="char:EOLhyphen"/>ment, p. <hi>44<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </note> 2. It be<g ref="char:EOLhyphen"/>longs to their Office to command the Modes and Circumſtances of Worſhip, for guiding them therein God hath
+<pb n="2" facs="tcp:110039:4"/>given them generall Rules. 3. We muſt not take the lawfull Commands of our Superiour to be unlawfull. 4. If we do through weakneſſe or perveſneſſe take lawfull things to be unlawfull, that will not excuſe us in our diſobedience.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>What do you think concerning a Liturgy?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. Baxter.</speaker>
+               <p>My Lord, I have proved by ſeven or eight undeniable Argu<g ref="char:EOLhyphen"/>ments, 1.<note n="a" place="margin">Ibid. p. <hi>359.</hi>
+                  </note> That a ſtinted Liturgy is lawfull. 2.<note n="b" place="margin">
+                     <hi>P.</hi> 380.</note> That it is lawfull to uſe a Liturgy that is not taken out of the Scripture, as to the words, 3. Chriſt hath not commanded in what words I ſhall pray, whether impoſed by others or not; whether with a Book, or a pre<g ref="char:EOLhyphen"/>conceived form or not: yet I am ſure he hath commanded obedience and peace. 4.<note n="c" place="margin">
+                     <hi>P.</hi> 365.</note> I think that a ſtinted Litur<g ref="char:EOLhyphen"/>gy in ſome parts of holy publick Ser<g ref="char:EOLhyphen"/>vice, is ordinarily neceſſary, 1. In read<g ref="char:EOLhyphen"/>ing the Word; 2. In ſinging Pſalms; 3. In Baptiſm; 4. In adminiſtring the Lords Supper; 5. In bleſſing people in the name of the Lord; 6. In confeſſing our ſaith and ſins in Marriage, Confir<g ref="char:EOLhyphen"/>mation,
+<pb n="3" facs="tcp:110039:4"/>Abſolution, Excommunication; 7. In Prayer. 5.<note n="d" place="margin">
+                     <hi>P.</hi> 367.</note> I have declared that a form of Prayer at ſome times may not only be ſubmitted to, but be deſired, when the peace of the Church doth ac<g ref="char:EOLhyphen"/>cidentally require it; and that he is far from the temper of a Chriſtian, that ſets ſo light by the peace of the Church, that he would not uſe a lawfull means for the procuring of it, when <hi>Paul</hi> would be<g ref="char:EOLhyphen"/>come all things to all men to ſave ſome.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>What do you think (I pray) of our Liturgy?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. Baxter.</speaker>
+               <p>For the Book of the Common-Prayer,<note place="margin">Diſput. Ibid.</note> though I have read exceptions againſt divers paſſages, I re<g ref="char:EOLhyphen"/>membred not any thing that might not receive a good Conſtruction if it were read with the ſame candour and allow<g ref="char:EOLhyphen"/>ance we read the writings of other men, againſt which I hate to be peeviſhly quarrelſome; when God hath bleſſed this Church ſo wonderfully with a cau<g ref="char:EOLhyphen"/>telous and a moderate Reformation, yet effectuall, the more pitty it is that the very Modes of Worſhip and Diſcipline
+<pb n="4" facs="tcp:110039:5"/>ſhould be the matter of ſuch ſharp and uncharitable diſcords, which muſt one day prove the grief of thoſe that are found to be the cauſers of it, and of the ſufferings of the Church upon that occaſion.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>I pray what do you think of the Ceremonies of our Church?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. Baxter.</speaker>
+               <p>To deal plainly with you my Lord,<note n="e" place="margin">
+                     <hi>P.</hi> 359.</note> I think ſignificant Ce<g ref="char:EOLhyphen"/>remonies are lawfull, as the Surpliſſe, and ſign of the Croſſe, as a profeſſing ſignal action,<note place="margin">
+                     <hi>P.</hi> 405.</note> ſtanding at the Creed, and adoring with their faces towards the Eaſt, which were uſed by the Primitive Chriſtians as ſignifications of their minds, inſtead of words; in all which caſes its no Uſurpation or Diminution to the word, or Inſtitution of man, thus to determine: It is but an obeying of Gods commands, for my part I did obey the impoſers of ſuch Ceremonies, and would do it if it were to do again, ☞ rather then diſturbe the peace of the Church, and be deprived of its Com<g ref="char:EOLhyphen"/>munion.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>Do you think really between
+<pb n="5" facs="tcp:110039:5"/>God and your own Conſcience, that the Scripture hath provided ſo exactly for all circumstances in Worſhip, that there is no<g ref="char:EOLhyphen"/>thing left for Superiors to impoſe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. Baxter.</speaker>
+               <p>No, Becauſe Chriſts Law is an Univerſal Law for all Ages and Countries, but theſe circumſtances can<g ref="char:EOLhyphen"/>not be of an Univerſal determination: For example; God hath commanded us to read the word, <hi>&amp;c.</hi> which muſt neceſſarily be done in ſome time and place, geſture and number of words, but he hath nor commanded what day, what hour, what Chapter,<note place="margin">P. <hi>8.</hi> Diſput.</note> 
+                  <hi>&amp;c.</hi> — Theſe things belonging to Superiors to pre<g ref="char:EOLhyphen"/>ſcribe, for common union and concord amongſt men.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>I pray what think you will be the iſſue of mens diſobedience to ſuch lawfull things impoſed?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. Baxter.</speaker>
+               <p>Hereby the Members of the Church will be involved in Conten<g ref="char:EOLhyphen"/>tions,<note place="margin">Diſp. Ibid.</note> and ſo engaged in bitter unchari<g ref="char:EOLhyphen"/>tableneſſe and cenſures, with Perſecuti<g ref="char:EOLhyphen"/>ons and Reproaches one of another; which ſcandalous courſes will nouriſh Vice, diſhonour God, rejoyce the Ene<g ref="char:EOLhyphen"/>mies,
+<pb facs="tcp:110039:6"/>grieve the Godly that are peace<g ref="char:EOLhyphen"/>able and judicious, and wound the Con<g ref="char:EOLhyphen"/>ſciences of the Contenders: We ſee the beginnings of ſuch fires are ſmall, but whither they will tend, and what will be the iſſue of them, I know not.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>Whom do I ſee behind you</hi> Mr. Baxter?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Baxter.</speaker>
+               <p>Mr. Jeanes.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>Mr. Jeanes. <hi>you are a perſon I know not whether more eminent for your parts, or your oppoſition to the Church: What are your thoughts of the things now in controverſie?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. Jeanes.</speaker>
+               <p>I have expreſſed my ſelf,<note n="f" place="margin">Appear. Evil, p. <hi>3.</hi>
+                  </note> That the Church may be ſecure and regardleſſe of any Calumnies, and groundleſſe Exceptions againſt it; for there hath been ſo much ſpoken and ☞ written concerning this ſubject, as that the pretence of weakneſſe is quite taken away from thoſe that are capable of in<g ref="char:EOLhyphen"/>formation.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>I muſt confeſſe I have allwayes thought, that if the Ancient Martyrs and Confeſſors were raiſed from their graves, they would all ſubmit to an act of Vnifor<g ref="char:EOLhyphen"/>mity:
+<pb n="8" facs="tcp:110039:6"/>I pray here what they ſay.</hi>
+               </p>
+               <p n="1">1. <hi>Peter M.</hi> If we hold on in diſwa<g ref="char:EOLhyphen"/>ding from theſe indifferent things, we condemn withall very many Churches, which have received the Goſpell, and blame bitterly innumerable, who were formerly counted worthy of all praiſe.</p>
+               <p n="2">2. <hi>Beza.</hi> Exhorteth the Non Con<g ref="char:EOLhyphen"/>formiſts in Queen <hi>Elizabeths</hi> time, that laying aſide all bitterneſſe of Spirit, as long as the truth of Doctrine, and purity of Conſcience was ſafe, they would bear one another with patience, and obey the Queens moſt Gratious Majeſty and all her Prelates heartily; The things you contend for are not of ſo great moment.</p>
+               <p n="3">3. <hi>Zanchy.</hi> I ſpeak my Conſcience ſayth he before God, that I can take them for no other then Schiſmaticks, that will not ſubmit to an Hierarchy, as it is eſtabliſhed in <hi>England.</hi>
+               </p>
+               <p n="4">4. <hi>M. Bucer.</hi> Therefore ſaith he, I deſire and beſeech you by the Croſſe of the Son of God, by the Salvation of the Churches, which are all this day over<g ref="char:EOLhyphen"/>whelmed with Calamities, by the deſi<g ref="char:EOLhyphen"/>red content that we ſhould deſire to
+<pb facs="tcp:110039:7"/>raign in all Churches, by the peace that is in Chriſt Jeſus: Again, I deſire and beſeech you, that you do nothing raſhly in the buſineſſe of Ceremonies:</p>
+               <p n="5">5. <hi>Peter M.</hi> If he were alive, he would adviſe you to take heed, leaſt thoſe things of leſſe importance by our ſtrife, may be the means that thoſe things which ſhould be eſteemed of greater force and value, either cannot at all be brought into the Church, either if they be once brought in, cannot be eſtabliſhed with continuance.</p>
+               <p n="6">6. <hi>M. Hilder.</hi> If <hi>M. Hilderſham</hi> lived, how powerfully would he perſwade men, as he doth on 51, <hi>Pſ.</hi> lect. 35. to ſatisfie weak Chriſtians about the Sur<g ref="char:EOLhyphen"/>pliſs and Croſſe, and to keep them from leaving the aſſemblies therefore.</p>
+               <p n="7">7. <hi>M. Baines.</hi> How earneſtly would holy <hi>M. Baines</hi> adviſe, that whoſoever lyeth not in our power to reform, it ſhall be our zeal and piety to tolerate and pa<g ref="char:EOLhyphen"/>tiently bear.</p>
+            </sp>
+            <p>Biſhop. M. Baxter. <hi>How much private advantage would you part with for publick good?</hi>
+            </p>
+            <pb n="9" facs="tcp:110039:7"/>
+            <sp>
+               <speaker>Baxter.</speaker>
+               <p>Truly the commands of the Magiſtrate, the Unity of the Church, and the avoiding of contentions and of<g ref="char:EOLhyphen"/>fences and other evils, are a ſufficient warrant to me to obey in inconvenient Circumſtantials of Gods worſhip,<note place="margin">
+                     <hi>P.</hi> 487.</note> that otherwiſe could not be juſtified.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>So the Martyr</hi>
+                  <note n="g" place="margin">Fox p. <hi>1367.</hi>
+                  </note> Hooper, <hi>who ſtumbled at ſome Ceremonies, in reſpect of the publick profit of the Church ſubmitted to them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>M. Brinſley. <hi>You are well<g ref="char:EOLhyphen"/>come, I pray what think you of the Contro<g ref="char:EOLhyphen"/>verſies that vex our Church?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Brinſley.</speaker>
+               <p>Some are ſo wedded to their own wills,<note place="margin">Diſcourſe againſt Schiſm, p. <hi>17.</hi>
+                  </note> as to take up reſolutions before hand, in caſe their opinions be medled with, or their wayes be touched upon though never ſo tenderly; Yet they will come no more at the publick Ordinance, at leaſt to hear ſuch a Mini<g ref="char:EOLhyphen"/>ſter; This is but too clear an evidence that they are but too willing to be de<g ref="char:EOLhyphen"/>ceived.</p>
+               <p>My Lord, men ſhould take heed how they before hand take up reſolutions,
+<pb n="10" facs="tcp:110039:8"/>whether of oppoſing or not obeying; Take we heed then how we entertain a<g ref="char:EOLhyphen"/>ny thoughts that way,<note place="margin">Schiſme. p. <hi>19.</hi>
+                  </note> but rather pre<g ref="char:EOLhyphen"/>pare our Ears and Hearts to hear what the Lord will ſay to us by Superiors or<g ref="char:EOLhyphen"/>dained over us by him. Now I would prayſe all my Brethren, if they would remember to keep the Ordinances deli<g ref="char:EOLhyphen"/>vered unto them.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>Would you own our Uniformity,</hi> Mr. Bond?</p>
+            </sp>
+            <sp>
+               <speaker>Bond.</speaker>
+               <p>Yes, for I obſerve how Chriſt ſubmitted to the Uniformity of worſhip eſtabliſhed among the Jews;<note place="margin">Sermon at Savoy, <hi>55</hi>
+                  </note> Therefore I may very well ſubmit to an Uniformi<g ref="char:EOLhyphen"/>ty eſtabliſhed among Chriſtians.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>I pray</hi> Mr. Ball, <hi>what ſay you to the differences now on foot?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>all.</hi>
+               </speaker>
+               <p>Its true, its ſaid to the deſpa<g ref="char:EOLhyphen"/>ragement of the Liturgy that it is taken out of the Maſſe-book:<note place="margin">Againſt Con. p. <hi>8.</hi>
+                  </note> but alas! many precious truths may be taken out thence as pearls may be taken out of a dunghill,<note place="margin">
+                     <hi>P.</hi> 9.</note> really there are ſuch things in the Com<g ref="char:EOLhyphen"/>mon-prayer, ſuch doctrines there taught, and ſuch practiſes there enjoyned that are ſo directly contrary to the Maſſe-book,
+<pb n="11" facs="tcp:110039:8"/>that both cannot ſtand together: Moſt things in the Liturgy of our Church, were in the ancient Liturgyes before the Maſſe was heard of; I think we can prove the Religion and Worſhip of the Church of <hi>England,</hi> with ſuch un<g ref="char:EOLhyphen"/>deniable arguments, as the gates of Hell ſhall not be able to prevail againſt.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>What ſay you</hi> M. Joſiah Ni<g ref="char:EOLhyphen"/>chols, <hi>will you now ſubſcribe to that which you refuſed in the Univerſity?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nichols.</speaker>
+               <p n="1">1. I willingly uſe the Book of Common-prayer and no other form,<note place="margin">Plea p. <hi>10</hi>
+                  </note> unleſs ſometimes upon extraordinary occaſion by publick Authority, ſome other Prayer be aſſigned.</p>
+               <p n="2">2. I ſubſcribe willingly to the Book of Articles,<note place="margin">
+                     <hi>P.</hi> 3.</note> according to the Statute.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>Do you</hi> Mr. Randall <hi>own any Church power, for impoſing Ceremonies?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Randall.</speaker>
+               <p>I have in the 131. p. of my Church, proved by Scripture and unde<g ref="char:EOLhyphen"/>niable Arguments, that every particular viſible Church hath power from God, to ordain ſome outward Rites and Cere<g ref="char:EOLhyphen"/>monies, for the outward carriage of Gods worſhip.</p>
+               <pb n="12" facs="tcp:110039:9"/>
+               <p n="2">2. If we live in a Church where ſuch things are ordained, which are ſimply unlawfull:<note place="margin">Randall Church, p. <hi>148.</hi>
+                  </note> we muſt take heed that we reſiſt not this Power, or the things thereby ordained; We ought to bridle that diſlike and refuſall of things impoſed, which we are by Nature too much incli<g ref="char:EOLhyphen"/>ned unto.</p>
+               <p n="3">3. <note place="margin">Ibid.</note> That which muſt over rule the Conſcience in the ſubſtance of worſhip is the Law of God; That which muſt over-rule it in Circumſtances of wor<g ref="char:EOLhyphen"/>ſhip is the Law of Superiors.</p>
+               <p n="4">4. <note place="margin">Ibid.</note> Take we ſuch a courſe, whereby we may obey the Magiſtrate and the Church, and yet not offend the weak; This is Wiſdome, yet rather obey the Magiſtrate, though with offence; For here diſobedience is the greater ſin, and ſo takes away the ſin of offending the weak; and indeed in this caſe I do no offence, becauſe my hands are bound, and I have no liberty to do otherwiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>Truly</hi> Mr. Randall <hi>I am glad to hear thus much from you, being informed that you diſliked our Ceremonies and Impo<g ref="char:EOLhyphen"/>ſitions,
+<pb n="13" facs="tcp:110039:9"/>and that you were ready to depart from our Church upon that account.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Randal.</speaker>
+               <p>Really my own opinion, and my advice to others hath been this, 1. That we muſt reſolve to bear with a great deal, rather than make a rent: for Schiſm is a great ſin. 2. That we ſhould ſuffer our ſelves to be over-born in things indifferent, by the Authority of the Church, till we are able to prove them ſimply unlawful, or to prove that there is a greater ſcandal in the uſe of them, than in diſobeying the Voyce of the Church, or of the Chriſtian Magiſtrate: For I know that it is a ſin to diſobey the Chriſtian Magiſtrate, except that I know that God commands the contra<g ref="char:EOLhyphen"/>ry. In things indifferent I do but fea<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>; and ſhall I run into a known ſin, be<g ref="char:EOLhyphen"/>cauſe that I would avoid a ſin only feared?</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>Good</hi> Dr. <hi>I am glad to ſee you; I hope you will not ſtand out against lawful Authority.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr. Gouge.</speaker>
+               <p n="1">1. <note place="margin">
+                     <hi>Serm. viſit.</hi> p. 63.</note> We are to allow the Magiſtrate power to govern the
+<pb n="14" facs="tcp:110039:10"/>Church according to his own Conſci<g ref="char:EOLhyphen"/>ence, and to obey him in things not forbidden, for Conſcience ſake.</p>
+               <p n="2">
+                  <note place="margin">Ibid.</note>2. As for Conformity: If the ſpi<g ref="char:EOLhyphen"/>rit of the Ruler by Laws be ſtirred up againſt us, or our opinions, <hi>We ought not to leave our places. Eccl.</hi> 10.4.</p>
+               <p>Let us lay aſide our opinions, <note place="margin">Ibid.</note> and patiently bear the private diſgrace of Conformity from ſome cenſorious ones, rather than ſuffer our ſelves to be laid aſide from the work of the Mi<g ref="char:EOLhyphen"/>niſtry, and thereby hinder the pub<g ref="char:EOLhyphen"/>lick profit, and benefit, which the Church of God might receive by us.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>Whom do I ſee behind you? methinks it is</hi> Dr. Preſton.</p>
+            </sp>
+            <sp>
+               <speaker>Gouge.</speaker>
+               <p>It is he my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>Dr. Preſton, <hi>Your judgement is deſervedly valued, and practice exactly obſerved: I pray what do you intend in reference to the Uniformity impoſed in mat<g ref="char:EOLhyphen"/>ter of Worſhip?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Preſton.</speaker>
+               <p>A ſet Form may be uſed: <note place="margin">
+                     <hi>Abridgem.</hi> p. 437</note> Chriſt preſcribed a Form; certain Pſalms are Prayers; and all along in the Churches there have been ſet
+<pb n="15" facs="tcp:110039:10"/>Forms uſed. I have ſubmitted and will ſubmit.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>Be there any more at Door?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <p>Here is <hi>Mr. Dod, Mr. Cleaver, Harris,</hi> and <hi>Mr. Wheatley.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>Mr. Dod, <hi>will you ſubſcribe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dod.</speaker>
+               <p>I have for Peace, Order, and Conſcience ſake,<note place="margin">His Life,</note> always ſubmitted my own private judgement to the pub<g ref="char:EOLhyphen"/>lick determination of Authority, in things indifferent.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. Harris,</speaker>
+               <p>
+                  <hi>What ſay you?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Harris.</speaker>
+               <p n="1">1. Theſe things need not be impoſed;<note place="margin">Life!</note> but when they are impo<g ref="char:EOLhyphen"/>ſed, they muſt needs be entertained.</p>
+               <p n="2">2. <note place="margin">Life and Sermon. <hi>p. 17.</hi>
+                  </note> I have always thought that a peaceable Chriſtian might comply with any Government and Order of<g ref="char:EOLhyphen"/>fered ſince the Reformation.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>What ſay you good</hi> Mr. Wheatley?</p>
+            </sp>
+            <sp>
+               <speaker>Wheatley.</speaker>
+               <p>The Authority ordained over men of God, may put my body in what Poſture and Cloaths they pleaſe:<note place="margin">Bride-Cloath,</note> It ſhall be my care to frame my ſoul, and cloath that.</p>
+            </sp>
+            <pb n="16" facs="tcp:110039:11"/>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <p>
+                  <hi>Mr. Vines</hi> is come.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>Mr. Vines, I hope we ſhall not loſe you, and your party: what ſay you?</hi>
+                  <note place="margin">
+                     <hi>Sacrament</hi> 45. p. 1.</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Vines.</speaker>
+               <p>Moſt of the Ceremonies of our Church are antient and innocent; the Government of it primitive.</p>
+               <p n="2">2. I remember we are <hi>in faece Romu<g ref="char:EOLhyphen"/>li,</hi> and when we cannot have what we will, we muſt deny our ſelves ſo far, as to will what we have; This is not a ſtate of perfection. But I gave ſatis<g ref="char:EOLhyphen"/>faction in this point to His late Maje<g ref="char:EOLhyphen"/>ſty at the Iſle of <hi>Wight.</hi>
+               </p>
+               <p>The <hi>London</hi> Miniſters attend. <note place="margin">Devin.</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>Let them come in</hi>— Mr. Caryl, <hi>What do you intend to do?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Caryl.</speaker>
+               <p>
+                  <hi>Thus ſaith the Lord; Stand in the ways, ask for the old way, which is the good way, and you ſhall find reſt to your ſous.</hi> The antient Cuſtoms of the Church, not contrary to the Scripture, may be allowed of;<note place="margin">
+                     <hi>In</hi> Job 33.</note> the antient Rule of the Scripture muſt.</p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>Mr. Venning, <hi>How is it that you gave over doing good in the Church?</hi>
+                  <note place="margin">Milk, Hony, <hi>145.</hi>
+                  </note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Venning.</speaker>
+               <p>A man ſhould not omit to do good when he hath, nor commit evil though he have an opportunity to
+<pb n="17" facs="tcp:110039:11"/>do it. 2. Moſt men have a good opi<g ref="char:EOLhyphen"/>nion of their own opinion, though their opinion be not good.</p>
+               <p n="3">3. <q>A Chriſtian needs walk cir<g ref="char:EOLhyphen"/>cumſpectly, leſt he give them that are without an occaſion to offend, or to them that are within an occaſion of offence.</q>
+               </p>
+               <p n="4">4. <q>It is to be feared, <note place="margin">Milk Hony, <hi>147.</hi>
+                     </note> that they who turn their backs upon the Ordinances of God, will at laſt turn their backs upon the God of Ordinances.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>Mr. Brooks, <hi>Will you leave the Miniſtry?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Brooks.</speaker>
+               <p>
+                  <q>The love of Chriſt and of Souls doth conſtrain me:<note place="margin">Brooks Preface, Apples Gold.</note> as there is an attractive, ſo there is a compulſive virtue in divine love, love to Chriſt and Souls will make a man willing to ſpend and be ſpent; <hi>Solus amor neſcit difficultates;</hi> He that prays himſelf to death; he that preacheth himſelf to death; he that ſtudieth himſelf to death for the good of Souls, ſhall be no loſer in the latter end.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>
+                  <hi>I hope he that can preach him<g ref="char:EOLhyphen"/>ſelf to death for poor Souls ſake, may preach
+<pb facs="tcp:110039:12"/>himſelf to order, peace, and obedience, for their ſakes too.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <p>Mr. Burroughs, <hi>You are a Peace-maker, what are your thoughts of theſe affairs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Burroughs.</speaker>
+               <p n="1">1. Much may be allow<g ref="char:EOLhyphen"/>ed to the ſupreme Authority,<note place="margin">
+                     <hi>Iren.</hi> p. 52.73.45.</note> for Peace and Orders ſake.</p>
+               <p n="2">2. Much may be allowed to one an<g ref="char:EOLhyphen"/>other, for unanimity and agreement.</p>
+            </sp>
+            <div n="2" type="section">
+               <head>SECT. II. Concerning the <hi>Covenant.</hi>
+               </head>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>
+                     <hi>Call</hi> Nie <hi>in:</hi> — Nie, <hi>What think you of the Covenant?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nie.</speaker>
+                  <p>
+                     <q>It is ſuch an Oath as for mat<g ref="char:EOLhyphen"/>ter, <note place="margin">Coven. with Nar<g ref="char:EOLhyphen"/>rat. <hi>p. 10.</hi>
+                        </note> perſons, and other circumſtances, the like hath not been in any age we read of, in any ſacred or humane ſto<g ref="char:EOLhyphen"/>ries.</q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>
+                     <hi>Do you think that the Covenant was lawfully impoſed?</hi>
+                  </p>
+               </sp>
+               <pb n="19" facs="tcp:110039:12"/>
+               <sp>
+                  <speaker>Nie.</speaker>
+                  <p>
+                     <q>I pray my Lord hear the Parliament.<note place="margin">Pet right Car. <hi>3.</hi>
+                        </note>
+                     </q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Long Parliament.</speaker>
+                  <p>
+                     <q>Whereas many of the people of this Realm have had an Oath impoſed upon them, not warrantable by the Laws and Sta<g ref="char:EOLhyphen"/>tutes of this Realm; We humbly pray, That no man may hereafter be compelled to take ſuch an Oath, as our right and liberty, according to the Statutes of this Realm.</q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>
+                     <hi>Is any man obliged by this Co<g ref="char:EOLhyphen"/>venant to alter the conſtitution of the Go<g ref="char:EOLhyphen"/>vernment?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. Pym.</speaker>
+                  <p>
+                     <q>As it is a crime odious in the nature of it,<note place="margin">Speech againſt <hi>E. Stra<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>.</hi>
+                        </note> to endeavour the al<g ref="char:EOLhyphen"/>teration of the Government of the State; ſo it is odious in the judgment and eſtimation of the Law:<note place="margin">St. Johns <hi>argumens. Ibid.</hi>
+                        </note> to alter the ſetled frame and conſtitution of the Government is treaſon in any State.</q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Long Parliament.</speaker>
+                  <p>
+                     <q>It is malignancy to infuſe into the people, that we mean to aboliſh Church-Govern<g ref="char:EOLhyphen"/>ment.<note place="margin">Rem. Dec<g ref="char:punc">▪</g> 
+                           <hi>1641.</hi>
+                        </note>
+                     </q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>
+                     <hi>Do you think</hi> Mr. Perkins, <hi>that
+<pb n="20" facs="tcp:110039:13"/>godly and reverend man, and great Caſu<g ref="char:EOLhyphen"/>iſt, would renounce the Covenant? Let us bear him.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Perkins.</speaker>
+                  <p>I would renounce any Oath that contradicts the Law of the Land,<note place="margin">Caſes Conſe. p. <hi>107.</hi>
+                     </note> uſurps the Magiſtrates power, takes away the Liberty of the Subject, and ſo is contrary to the word of God.</p>
+                  <p n="2">
+                     <note place="margin">Ibid.</note>2. I would renounce any Oath which is made againſt the wholeſome Laws of Government: becauſe every ſoul ought to be ſubject to the higher powers, <hi>Rom.</hi> 13.</p>
+                  <p n="3">3. An Oath made by perſons under tuition,<note place="margin">Ibid.</note> who have not power to bind themſelves, obligeth not; and we are not our own, <hi>Numb.</hi> 30.3.</p>
+                  <p n="4">4. I'le renounce an Oath that bindeth me to that which is not in my power;<note place="margin">Ibid.</note> yea if at firſt it were lawful, and after by ſome means becomes either impoſ<g ref="char:EOLhyphen"/>ſible, or unlawful, when it becometh impoſſible, then we may think that God himſelf hath from Heaven freed us form that Oath.</p>
+               </sp>
+            </div>
+            <div n="3" type="section">
+               <pb n="21" facs="tcp:110039:13"/>
+               <head>SECT. III. Concerning <hi>Reſiſting the King.</hi>
+               </head>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>
+                     <hi>Gentlemen, Are you willing to declare it unlawful to raiſe Armes againſt the King upon any pretence?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Miniſters of</hi> London.</speaker>
+                  <p>We are re<g ref="char:EOLhyphen"/>ſolved, either chearfully to obey, or patiently to ſubmit.</p>
+               </sp>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>
+                     <hi>What ſay you</hi> Mr Bates? <note place="margin">
+                        <hi>Sermon</hi> St. Dunſt. Jan. 30.60. Feb. 17.</note>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Bates.</speaker>
+                  <p>A Patience and Meekneſs is the Crown of our Religion.</p>
+               </sp>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>
+                     <hi>What ſay you</hi> Mr. Jacomb?</p>
+               </sp>
+               <sp>
+                  <speaker>Jacomb.</speaker>
+                  <p>
+                     <q>
+                        <hi>Nobis obſequii gloria relicta est;</hi> Our glory is to obey.<note place="margin">
+                           <hi>Sermon</hi> May 29.</note>
+                     </q>
+                  </p>
+                  <p>
+                     <q>Religion was planted by obedi<g ref="char:EOLhyphen"/>ence, by that it is continued.</q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>
+                     <hi>What ſay you</hi> Mr. Meriton? <note place="margin">
+                        <hi>Sermon</hi> Jan. 30.</note>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Meriton.</speaker>
+                  <p>
+                     <q>
+                        <hi>Curſe not the King in thy heart, for a Bird of the Air will tell the matter.</hi>
+                     </q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>
+                     <hi>What ſay you</hi> Mr. Ley?</p>
+               </sp>
+               <sp>
+                  <speaker>Ley.</speaker>
+                  <p>
+                     <q>It is a common ſcandal rai<g ref="char:EOLhyphen"/>ſed upon our profeſſion, as if it were
+<pb n="22" facs="tcp:110039:14"/>inconſiſtent with Government, <note place="margin">
+                           <hi>Sermon taken</hi> March 9.60.</note> as one pretends, whereas none can have a more real allegiance, and ſin<g ref="char:EOLhyphen"/>cere obedience than good Chriſtians.</q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>Mr. Jenkins, <hi>There are ſtrange things reported concerning your Principles, in reference to the preſent Go<g ref="char:EOLhyphen"/>vernment.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Jenkins.</speaker>
+                  <p>It's true my Lord, I teach <q>a liberty, but not ſuch as may be an occaſion of the fleſh, or a cloak of maliciouſneſs:<note place="margin">Jude <hi>v.</hi> 8. <hi>v.</hi> 11. <hi>&amp;c.</hi>
+                        </note> nor indeed, is any thing further from truth, than that becauſe of Chriſtian liberty, men ſhould not be ſubject to the Civil power.</q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>
+                     <hi>Do you think a man may under any pretence reſiſt the lawful power?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Jenkins.</speaker>
+                  <p>
+                     <q>No: for 1. It is a ſin a<g ref="char:EOLhyphen"/>gainſt Gods Ordinance,<note place="margin">Jude <hi>v.</hi> 8.</note> 
+                        <hi>Prov.</hi> 8.15.2. Its againſt the publick welfare.<note place="margin">
+                           <hi>p.</hi> 278.</note> They that are weary of Magiſtrates are weary of all the comforts and bleſſings of peace. 3. Its againſt our own happineſs. <hi>An evil man ſeeketh only rebellion, therefore an evil meſſenger ſhall be ſent againſt him,</hi> Eccl. 10.8. I
+<pb n="23" facs="tcp:110039:14"/>do not remember that God ſuffered any godly man to put another out of Government, or to put himſelf in.<note place="margin">
+                           <hi>p.</hi> 300.</note> Good men will not be bad Subjects, neither can evil men be good Sub<g ref="char:EOLhyphen"/>jects.<note place="margin">
+                           <hi>v.</hi> 12.</note> 
+                        <hi>Fear thou God and the King,</hi>
+                        <note place="margin">
+                           <hi>p.</hi> 108.</note> 
+                        <hi>and meddle not with them that are given to change, their calamity ſhall come ſudden<g ref="char:EOLhyphen"/>ly, and who knoweth the ruine of them both?</hi>
+                     </q> Mr. <hi>Manton.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>
+                     <hi>Mr.</hi> Manton, <hi>will not you ſubſcribe, that it is unlawful to reſiſt Au<g ref="char:EOLhyphen"/>thority under any pretence?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Manton.</speaker>
+                  <p>
+                     <q>By all means, <note place="margin">Jude 81 <hi>p.</hi> 355.</note> let us obey every Ordinance of man for the Lords ſake. The publick welfare is concern<g ref="char:EOLhyphen"/>ed in our Obedience &amp; Religion too, both which ſhould be very dear to thoſe that fear God. Better bear any Inconvenience than bath the Country in warr and blood.</q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>
+                     <hi>Whence comes it that men reſist the Magiſtrate?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Manton.</speaker>
+                  <p>
+                     <q>Vain man would be free and yoakleſs,<note place="margin">
+                           <hi>p.</hi> 347.</note> neither would he have his heart ſubject to God, nor his acti<g ref="char:EOLhyphen"/>ons to mans cenſure. Some men will
+<pb n="24" facs="tcp:110039:15"/>not have their Conſciences ſtand in the way of their luſt, nor the Ma<g ref="char:EOLhyphen"/>giſtrate in the way of their ſin, but every Chriſtian deſires to live under the Magiſtrate peaceable and quiet lives,<note place="margin">
+                           <hi>p.</hi> 348.</note> in all godlineſs and honeſty.</q>
+                  </p>
+               </sp>
+            </div>
+            <div n="4" type="section">
+               <head>SECT. IV. Concerning Subſcription to the Book of <hi>Ordaining Prieſts and Deacons.</hi>
+               </head>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>
+                     <hi>What think you Gentlemen of ſubſcribing to that Book of Ordination?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. Ball.</speaker>
+                  <p>
+                     <q>We may ſubſcribe to the Ordaining of Miniſters,<note place="margin">
+                           <hi>Mr.</hi> Ball <hi>againſt</hi> Canne <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 89.90.</note> which are eſſentiall allowed by Gods word, though as to ſome circumſtantial or<g ref="char:EOLhyphen"/>der, whereby in this, or that ſociety, the Miniſter is to execute that functi<g ref="char:EOLhyphen"/>on he hath received from God; he is not expreſly allowed of in the word of God.</q>
+                  </p>
+               </sp>
+               <p n="2">2. <q>If they be not lawful Miniſters who receive their Ordination from
+<pb n="25" facs="tcp:110039:15"/>Biſhops, <note place="margin">
+                        <hi>Mr.</hi> Ball <hi>part</hi> 1. <hi>p.</hi> 25.</note> the Church throughout the world hath been deſtitute of a lawful Miniſter this 1500. or 1600. years.</q>
+               </p>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>
+                     <hi>What ſay you Mr.</hi> Baxter <hi>to this?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Baxter.</speaker>
+                  <p>
+                     <q>So eminent in Gods graces and gifrs were the Biſhops, that their names will be precious whilſt Chriſt hath in <hi>England</hi> a Reformed Church.</q>
+                  </p>
+                  <p n="2">2. <q>Our <hi>Jewel,</hi> our <hi>Uſher,</hi> our <hi>Dave<g ref="char:EOLhyphen"/>nant</hi> hath done ſo much againſt the Roman Uſurpers,<note place="margin">
+                           <hi>Baxter</hi> Diſp. Church Govern<g ref="char:EOLhyphen"/>ment. p. <hi>4.</hi>
+                        </note> that they will not be able to claw it off them to the laſt.</q>
+                  </p>
+                  <p>
+                     <q>Moreover, who knoweth not? that moſt of the godly able Miniſters of <hi>England,</hi> ſince the Reformation, did judge Epiſcopacy, ſome of them law<g ref="char:EOLhyphen"/>ful, and ſome of them moſt ſit (for the Non-conformiſts were but few) and that before theſe late troubles and warrs, <hi>&amp;c.</hi> the moſt through the Land did ſubſcribe and conform to Epiſcopal Government, as a thing not contrary to the word of God; ſo that it is very evident,<note place="margin">
+                           <hi>Baxter</hi> Diſp. ibi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </note> that it is very con<g ref="char:EOLhyphen"/>ſiſtent with a godly life, to judge Epiſcopacy lawful and juſt, or elſe
+<pb n="26" facs="tcp:110039:16"/>we ſhould not have had ſo many learned and godly men of that mind.</q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>
+                     <hi>Gentlemen, I am very glad to ſee and hear ſo unanimous a conſent to the ſeveral parts of the Act of Vniformity, I am told Mr.</hi> Calvin <hi>himſelf would conform.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Calvin.</speaker>
+                  <p>
+                     <q>I pray let there be one Form of Prayer,<note place="margin">Ep. ad Protect. <hi>Selden</hi> Not, in Eutycho</note> and of Eccleſiaſtical Rites, from <hi>which it may not be lawful for the Pastors in their function to depart.</hi> That 1. thereby proviſion might be made for the ſimplicity of ſome. 2. That the conſent the Churches have amongſt themſelves may more evidently appear. 3. That the extra<g ref="char:EOLhyphen"/>vagant Levity of ſome that affect no<g ref="char:EOLhyphen"/>velties may be prevented.</q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>
+                     <hi>Notwithstanding all this, there be ſome tender Conſciences that can<g ref="char:EOLhyphen"/>not ſubmit to Authority, what ſhall we do with theſe?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr.</speaker>
+                  <p>
+                     <hi>Edwards.</hi>
+                     <note place="margin">Of Tole<g ref="char:EOLhyphen"/>rat. l. <hi>1.</hi>
+                     </note>
+                     <q>Its againſt the Con<g ref="char:EOLhyphen"/>ſcience of the Magiſtrate to tolerate the erroneous Conſcience of the Sub<g ref="char:EOLhyphen"/>ject.</q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. Caſe.</speaker>
+                  <p>
+                     <note place="margin">Sermon before <hi>Par<g ref="char:EOLhyphen"/>liament.</hi>
+                     </note> 
+                     <q>A toleration is the abo<g ref="char:EOLhyphen"/>mination
+<pb n="27" facs="tcp:110039:16"/>that makes deſolate.</q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. Nalton.</speaker>
+                  <p>
+                     <note place="margin">
+                        <hi>Sermon at</hi> Pauls 1659. <hi>on</hi> Jude. <hi>p.</hi> 403, 404.</note>Toleration is intole<g ref="char:EOLhyphen"/>rable.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. Manton.</speaker>
+                  <p>
+                     <q>Believe not Seducers, when they come in <hi>ſheeps cloathing,</hi> it is but that they may get the power to play the Wolves the better; And when Libertines increaſe, let <hi>the Ma<g ref="char:EOLhyphen"/>giſtrates look about them.</hi> There are clouds gathering together towards a diſmal ſtorm, and though they ſeem to be meek, and full of love, while their party is contemptible, yet when they grow conſiderable,<note place="margin">
+                           <hi>Mr.</hi> Man<g ref="char:EOLhyphen"/>ton <hi>on</hi> Jude 403.</note> they appear in their colours.</q>
+                  </p>
+                  <p>
+                     <q>Many fear a ſecond deluge of An<g ref="char:EOLhyphen"/>ti-Chriſtianiſm, but that is not ſo probable as the ſeditious Inſurrecti<g ref="char:EOLhyphen"/>on of Sectaries. The perilous times,<note place="margin">Mr. <hi>Man<g ref="char:EOLhyphen"/>ton</hi> ibid.</note> 2 <hi>Tim.</hi> 3. are not from the Anti-Chriſtian, or Popiſh party, ſo much as from the Libertines, who are heady, high-minded, trayterous, <hi>&amp;c.</hi> Our danger is not from a Popiſh par<g ref="char:EOLhyphen"/>ty, that carrieth things on by power and greatneſs, ſo much as from a party that creeps into houſes, and
+<pb n="28" facs="tcp:110039:17"/>leads captive ſilly women, having a form of godlineſs, and denying the power thereof.</q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Biſhop.</speaker>
+                  <p>
+                     <hi>Beloved, If there be any conſo<g ref="char:EOLhyphen"/>lation in Chriſt, if there be any comfort of love, if any fellowſhip of the Spirit, if any bowels and mercy, fullfil ye my joy, that ye be like minded, having the ſame l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, being of one accord,</hi>
+                     <note place="margin">Phil. 2. 1, 2, 3.</note> 
+                     <hi>of one mind.</hi>
+                  </p>
+                  <p>
+                     <hi>Let nothing be done through ſtrife and vainglory,</hi> Amen.</p>
+               </sp>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_note">
+            <head>ADVERTISEMENT.</head>
+            <p>☞ Lately Publiſhed, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Or, CONSIDERATIONS on the ACT of UNIFORMITY, For the SATISFACTION of the CLERGY, within the Province of <hi>CANTERB<g ref="char:V">Ʋ</g>RY.</hi>
+            </p>
+            <p>Sold by H. MARSH.</p>
+            <pb facs="tcp:110039:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
